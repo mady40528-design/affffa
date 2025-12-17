@@ -82,6 +82,7 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
 
 ---
 
+
 ## 👥 Team Members
 
 <div align="center">
