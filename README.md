@@ -115,7 +115,6 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
     <td align="center" width="20%">
       <a href="https://github.com/mohamad0ahmad">
         <img src="https://github.com/mohamad0ahmad.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #f39c12;">
-
         <br><br>
         <strong>Mohamad Ahmad Hassan</strong>
         <br><sub>Single Cycle</sub>
