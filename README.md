@@ -135,9 +135,9 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
 <div align="center">
 <table width="100%" style="table-layout: fixed;">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="22%">
       <a href="https://github.com/3mrakml">
-        <img src="https://github.com/3mrakml.png?size=200" width="120" height="110" style="border-radius:50%; border:5px solid #3498db;">
+        <img src="https://github.com/3mrakml.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #3498db;">
         <br><br>
         <strong>Amr Akmal</strong>
         <br><sub>PipeLine</sub>
