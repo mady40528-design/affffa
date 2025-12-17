@@ -135,7 +135,7 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/abdulrahman-hussieni">
-        <img src="https://github.com/abdulrahman-hussieni?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #3498db;">
+        <img src="https://github.com/abdulrahman-hussieni.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #3498db;">
         <br><br>
         <strong>Abdulrahman Hussieni</strong>
         <br><sub>PipeLine</sub>
@@ -143,7 +143,7 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/AhmedHamed408">
-        <img src="https://github.com/AhmedHamed408?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #2ecc71;">
+        <img src="https://github.com/AhmedHamed408.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #2ecc71;">
         <br><br>
         <strong>Ahmed Hamed</strong>
         <br><sub>PipeLine</sub>
