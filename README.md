@@ -150,8 +150,8 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
       </a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/Ahmedmohamed77">
-        <img src="https://github.com/Ahmedmohamed77.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #e74c3c;">
+      <a href="https://github.com/AhmedAbdelkader77">
+        <img src="https://github.com/AhmedAbdelkader77.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #e74c3c;">
         <br><br>
         <strong>Ahmed Mohamed</strong>
         <br><sub>PipeLine</sub>
