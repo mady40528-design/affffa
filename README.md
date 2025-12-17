@@ -134,18 +134,18 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="https://github.com/abdulrahman-hussieni">
-        <img src="https://github.com/abdulrahman-hussieni.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #3498db;">
+      <a href="https://github.com/3mrakml">
+        <img src="https://github.com/3mrakml.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #3498db;">
         <br><br>
-        <strong>Abdulrahman Hussieni</strong>
+        <strong>Amr Akmal</strong>
         <br><sub>PipeLine</sub>
       </a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/AhmedHamed408">
-        <img src="https://github.com/AhmedHamed408.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #2ecc71;">
+      <a href="https://github.com/AbdelrahmanA7mad">
+        <img src="https://github.com/AbdelrahmanA7mad.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #2ecc71;">
         <br><br>
-        <strong>Ahmed Hamed</strong>
+        <strong>Abdelrahman Ahmed</strong>
         <br><sub>PipeLine</sub>
       </a>
     </td>
