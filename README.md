@@ -1,50 +1,49 @@
-<div align="center">
+## 👥 Team Members
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
     <td align="center" width="20%">
-      <a href="https://github.com/FearThePLOTO">
-        <img src="https://github.com/FearThePLOTO.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #3498db;">
+      <a href="https://github.com/AhmedHamed408">
+        <img src="https://github.com/AhmedHamed408.png?size=200"
+             width="110" height="110"
+             style="border-radius:50%; border:5px solid #2ecc71; object-fit:cover;">
         <br><br>
-        <strong>Abdallh Ashraf</strong>
-        <br><sub>Project Leader & Backend Tester</sub>
+        <strong>Ahmed Hamed</strong>
+        <br><sub>Single Cycle</sub>
       </a>
     </td>
+
     <td align="center" width="20%">
-      <a href="https://github.com/Muhammadkhiry">
-        <img src="https://github.com/Muhammadkhiry.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #2ecc71;">
+      <a href="https://github.com/Ahmedmohamed360">
+        <img src="https://github.com/Ahmedmohamed360.png?size=200"
+             width="110" height="110"
+             style="border-radius:50%; border:5px solid #e74c3c; object-fit:cover;">
         <br><br>
-        <strong>Muhammad Khiry</strong>
-        <br><sub>Flutter Developer</sub>
+        <strong>Ahmed Mohamed</strong>
+        <br><sub>Single Cycle</sub>
       </a>
     </td>
+
     <td align="center" width="20%">
-      <a href="https://github.com/hatemabd-elkarim">
-        <img src="https://github.com/hatemabd-elkarim.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #e74c3c;">
+      <a href="https://github.com/mohamad0ahmad">
+        <img src="https://github.com/mohamad0ahmad.png?size=200"
+             width="110" height="110"
+             style="border-radius:50%; border:5px solid #f39c12; object-fit:cover;">
         <br><br>
-        <strong>Hatem Ayman</strong>
-        <br><sub>Backend Developer</sub>
+        <strong>Mohamad Ahmad Hassan</strong>
+        <br><sub>Single Cycle</sub>
       </a>
     </td>
+
     <td align="center" width="20%">
-      <a href="https://github.com/ZK53">
-        <img src="https://github.com/ZK53.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #f39c12;">
+      <a href="https://github.com/mady40528-design">
+        <img src="https://github.com/mady40528-design.png?size=200"
+             width="110" height="110"
+             style="border-radius:50%; border:5px solid #9b59b6; object-fit:cover;">
         <br><br>
-        <strong>Muhammad Zakaria</strong>
-        <br><sub>Flutter Developer</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Muhammdaly">
-        <img src="https://github.com/Muhammdaly.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #9b59b6;">
-        <br><br>
-        <strong>Muhammed Aly</strong>
-        <br><sub>Database Designer</sub>
+        <strong>mady40528-design</strong>
+        <br><sub>Single Cycle</sub>
       </a>
     </td>
   </tr>
 </table>
-
-<br>
