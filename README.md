@@ -130,6 +130,8 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
     </td>
   </tr>
 </table>
+</div>
+<div align="center">
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="20%">
@@ -177,7 +179,7 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
 
 <br>
 </div>
-</div>
+
 
 ---
 ---
