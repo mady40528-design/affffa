@@ -158,16 +158,16 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
       </a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/">
-        <img src="https://github.com/Ahmedmohamed360.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #f39c12;">
+      <a href="https://github.com/assem52">
+        <img src="https://github.com/assem52.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #f39c12;">
         <br><br>
-        <strong>Asem Abdelrahman</strong>
+        <strong>Assem Melege</strong>
         <br><sub>PipeLine</sub>
       </a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/">
-        <img src="https://github.com/Ahmedmohamed360.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #9b59b6;">
+      <a href="https://github.com/Mohamed-Eldeeb-Dev">
+        <img src="https://github.com/Mohamed-Eldeeb-Dev.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #9b59b6;">
         <br><br>
         <strong>Mohamed Eldeeb</strong>
         <br><sub>PipeLine</sub>
