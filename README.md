@@ -83,57 +83,46 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
 ---
 ## 👥 Team Members
 
+
+<div align="center">
+
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/abdulrahman-hussieni">
-        <img src="https://github.com/abdulrahman-hussieni.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #3498db; object-fit:cover;">
+        <img src="https://github.com/abdulrahman-hussieni.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #3498db;">
         <br><br>
         <strong>Abdulrahman Hussieni</strong>
         <br><sub>Single Cycle</sub>
       </a>
     </td>
-
     <td align="center" width="20%">
       <a href="https://github.com/AhmedHamed408">
-        <img src="https://github.com/AhmedHamed408.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #2ecc71; object-fit:cover;">
+        <img src="https://github.com/AhmedHamed408.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #2ecc71;">
         <br><br>
         <strong>Ahmed Hamed</strong>
         <br><sub>Single Cycle</sub>
       </a>
     </td>
-
     <td align="center" width="20%">
-      <a href="https://github.com/Ahmedmohamed360">
-        <img src="https://github.com/Ahmedmohamed360.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #e74c3c; object-fit:cover;">
+      <a href="https://github.com/">
+        <img src="https://github.com/Ahmedmohamed360.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #e74c3c;">
         <br><br>
         <strong>Anas Mohamed</strong>
         <br><sub>Single Cycle</sub>
       </a>
     </td>
-
     <td align="center" width="20%">
       <a href="https://github.com/mohamad0ahmad">
-        <img src="https://github.com/mohamad0ahmad.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #f39c12; object-fit:cover;">
+        <img src="https://github.com/mohamad0ahmad.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #f39c12;">
         <br><br>
         <strong>Mohamad Ahmad Hassan</strong>
         <br><sub>Single Cycle</sub>
       </a>
     </td>
-
     <td align="center" width="20%">
-      <a href="https://github.com/Ahmedmohamed360">
-        <img src="https://github.com/Ahmedmohamed360.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #9b59b6; object-fit:cover;">
+      <a href="https://github.com/">
+        <img src="https://github.com/Ahmedmohamed360.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #9b59b6;">
         <br><br>
         <strong>Ahmed Ay</strong>
         <br><sub>Single Cycle</sub>
@@ -141,68 +130,56 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
     </td>
   </tr>
 </table>
-
-<br>
-
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/3mrakml">
-        <img src="https://github.com/3mrakml.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #3498db; object-fit:cover;">
+        <img src="https://github.com/3mrakml.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #3498db;">
         <br><br>
         <strong>Amr Akmal</strong>
-        <br><sub>Pipeline</sub>
+        <br><sub>PipeLine</sub>
       </a>
     </td>
-
     <td align="center" width="20%">
       <a href="https://github.com/AbdelrahmanA7mad">
-        <img src="https://github.com/AbdelrahmanA7mad.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #2ecc71; object-fit:cover;">
+        <img src="https://github.com/AbdelrahmanA7mad.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #2ecc71;">
         <br><br>
         <strong>Abdelrahman Ahmed</strong>
-        <br><sub>Pipeline</sub>
+        <br><sub>PipeLine</sub>
       </a>
     </td>
-
     <td align="center" width="20%">
       <a href="https://github.com/AhmedAbdelkader77">
-        <img src="https://github.com/AhmedAbdelkader77.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #e74c3c; object-fit:cover;">
+        <img src="https://github.com/AhmedAbdelkader77.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #e74c3c;">
         <br><br>
         <strong>Ahmed Mohamed</strong>
-        <br><sub>Pipeline</sub>
+        <br><sub>PipeLine</sub>
       </a>
     </td>
-
     <td align="center" width="20%">
       <a href="https://github.com/assem52">
-        <img src="https://github.com/assem52.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #f39c12; object-fit:cover;">
+        <img src="https://github.com/assem52.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #f39c12;">
         <br><br>
         <strong>Assem Melege</strong>
-        <br><sub>Pipeline</sub>
+        <br><sub>PipeLine</sub>
       </a>
     </td>
-
     <td align="center" width="20%">
       <a href="https://github.com/Mohamed-Eldeeb-Dev">
-        <img src="https://github.com/Mohamed-Eldeeb-Dev.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #9b59b6; object-fit:cover;">
+        <img src="https://github.com/Mohamed-Eldeeb-Dev.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #9b59b6;">
         <br><br>
         <strong>Mohamed Eldeeb</strong>
-        <br><sub>Pipeline</sub>
+        <br><sub>PipeLine</sub>
       </a>
     </td>
   </tr>
 </table>
 
+<br>
+</div>
+</div>
+
+---
 ---
 
 ## 📝 Notes
