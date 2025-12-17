@@ -1,7 +1,7 @@
-# 🖥️ MIPS Processor Implementations (Verilog HDL)
+# 🖥️ MIPS Processor Implementations (VHDL)
 
 ## 📌 Overview
-This repository contains multiple implementations of the **MIPS (Microprocessor without Interlocked Pipelined Stages)** architecture using **Verilog HDL**.  
+This repository contains multiple implementations of the **MIPS (Microprocessor without Interlocked Pipelined Stages)** architecture using **VHDL**.  
 The project is designed for **educational and academic purposes**, helping students understand CPU architecture and datapath/control design.
 
 It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS processors.
@@ -69,14 +69,14 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
 ## 🎯 Project Goals
 - Understand MIPS architecture fundamentals
 - Compare single-cycle, multi-cycle, and pipelined designs
-- Learn datapath and control unit design using Verilog
+- Learn datapath and control unit design using VHDL
 - Practice hazard detection and resolution techniques
 - Build a strong foundation in CPU microarchitecture
 
 ---
 
 ## 🛠️ Technology Used
-- **Hardware Description Language:** Verilog HDL
+- **Hardware Description Language:** VHDL
 - **Design Style:** Structural & Modular
 - **Target Use:** Academic projects, learning computer architecture
 
