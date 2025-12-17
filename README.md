@@ -1,20 +1,7 @@
 ## 👥 Team Members
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="20%">
-      <a href="https://github.com/abdulrahman-hussieni">
-        <img src="https://github.com/abdulrahman-hussieni.png?size=200"
-             width="110" height="110"
-             style="border-radius:50%; border:5px solid #3498db; object-fit:cover;">
-        <br><br>
-        <strong>Abdulrahman Hussieni</strong>
-        <br><sub>Single Cycle</sub>
-      </a>
-    </td>
-
     <td align="center" width="20%">
       <a href="https://github.com/AhmedHamed408">
         <img src="https://github.com/AhmedHamed408.png?size=200"
@@ -60,6 +47,3 @@
     </td>
   </tr>
 </table>
-
-</div>
-
