@@ -180,8 +180,6 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
 <br>
 </div>
 
-
----
 ---
 
 ## 📝 Notes
