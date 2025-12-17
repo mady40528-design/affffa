@@ -87,7 +87,7 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
 
 <div align="center">
 
-<table>
+<table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/abdulrahman-hussieni">
