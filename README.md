@@ -131,7 +131,7 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
     </td>
   </tr>
 </table>
-<table>
+<table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/3mrakml">
